@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/airport-data-js/static/js/main.968aa39d.js",
+    "static/js/787.1f48618d.chunk.js": "/airport-data-js/static/js/787.1f48618d.chunk.js",
+    "index.html": "/airport-data-js/index.html",
+    "main.968aa39d.js.map": "/airport-data-js/static/js/main.968aa39d.js.map",
+    "787.1f48618d.chunk.js.map": "/airport-data-js/static/js/787.1f48618d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.968aa39d.js"
+  ]
+}
